@@ -169,10 +169,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devangibej&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="93%" />
   </p>
 
-  <!-- GitHub Activity Graph -->
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangibej&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="93%" />
-  </p>
+  ## 📈 Contribution Activity
+
+<div align="center">
+
+[![Devangi's Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=devangibej&theme=tokyo-night&hide_border=true)](https://github.com/devangibej)
 
 </div>
 
